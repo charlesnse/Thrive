@@ -1,0 +1,454 @@
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem
+}
+
+.form-group {
+    margin-bottom: 1rem
+}
+
+.form-control {
+    border-color: #dce0eb;
+    color: #26292c;
+    font-size: 13px;
+    font-weight: light;
+    min-height: 42px;
+    padding: 6px 15px
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #6e82a3;
+    font-size: 13px;
+    font-weight: light;
+}
+
+.form-control::-moz-placeholder {
+    color: #6e82a3;
+    font-size: 13px;
+    font-weight: light;
+}
+
+.form-control:-ms-input-placeholder {
+    color: #6e82a3;
+    font-size: 13px;
+    font-weight: light;
+}
+
+.form-control::-ms-input-placeholder {
+    color: #6e82a3;
+    font-size: 13px;
+    font-weight: light;
+}
+
+.form-control::placeholder {
+    color: #6e82a3;
+    font-size: 13px;
+    font-weight: light;
+}
+
+.login-banner img {
+    max-width: 430px
+}
+
+
+.login-wrap-bg {
+    position: absolute;
+    right: 0;
+    padding: 0
+}
+
+.login-wrapper {
+    width: 100%;
+    height: 100vh;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap
+}
+
+.login-wrapper .loginbox {
+    max-width: 100%;
+    width: 100%;
+    font-weight: 600;
+    padding: 60px
+}
+
+.login-wrapper .loginbox .img-logo {
+    margin-bottom: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.login-wrapper .loginbox .img-logo img {
+    width: 120px
+}
+
+.back-home {
+    margin-left: auto
+}
+
+.back-home a {
+    text-decoration: underline !important;
+    font-weight: 400
+}
+
+.login-wrapper .loginbox h1 {
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 27px;
+    color: #000
+}
+
+.account-subtitle {
+    color: #273656;
+    font-size: 18px;
+    margin-bottom: 55px
+}
+
+.login-wrapper .loginbox label {
+    margin-bottom: 15px;
+    width: 100%;
+    color: #685f78;
+    font-weight: 500
+}
+
+.toggle-password {
+    position: absolute;
+    right: 17px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ccc;
+    cursor: pointer
+}
+
+.remember-me .form-check-input {
+    border: 1px solid #a6b646;
+    border-radius: 0
+}
+
+.remember-me a {
+    color: #a6b646
+}
+
+.pass-group {
+    position: relative
+}
+
+.google-bg {
+    background: rgba(255, 222, 218, .31);
+    padding: 30px;
+    width: 100%
+}
+
+.sign-google ul {
+    padding: 0;
+    margin: 0;
+    display: inline-flex
+}
+
+.sign-google ul li {
+    list-style: none
+}
+
+.sign-google ul li a {
+    padding: 0 20px;
+    color: #000;
+    font-weight: 600;
+    display: inline-block
+}
+
+.sign-google ul li a,
+.google-bg span a,
+.google-bg p,
+.back-home a {
+    font-size: 14px
+}
+
+.sign-google ul li a img {
+    margin-right: 10px
+}
+
+.sign-google ul li:first-child a {
+    border-right: 1px solid #000
+}
+
+.google-bg span a {
+    color: #22100d;
+    font-weight: 400
+}
+
+.sign-google {
+    margin: 32px 0
+}
+
+.loginbox .form-control {
+    border-color: #a6b646;
+    border-radius: 5px;
+    min-height: 50px
+}
+
+.loginbox .form-control:focus {
+    border: 1px solid #a6b646
+}
+
+.loginbox .form-control::placeholder {
+    color: #a2a2a2
+}
+
+.toggle-password.feather-eye {
+    margin-right: 1px;
+    color: #6e82a3
+}
+
+.pass-checked {
+    position: absolute;
+    right: 40px;
+    top: 55%;
+    transform: translateY(-50%);
+    color: #4caf50;
+    opacity: 0
+}
+
+.pass-checked.active {
+    opacity: 1
+}
+
+.forgot-link {
+    color: #392c7d;
+    font-size: 14px
+}
+
+.forgot {
+    margin-bottom: 28px
+}
+
+.remember-me label {
+    font-size: 14px
+}
+
+.remember-me {
+    margin-bottom: 30px
+}
+
+.form-check-input:checked {
+    background-color: #a6b646;
+    border-color: #a6b646
+}
+
+.form-check-input:focus {
+    box-shadow: none;
+    border-color: #a6b646
+}
+
+.check-on .form-check-input {
+    min-height: 30px;
+    width: 70px;
+    margin: 0;
+    cursor: pointer
+}
+
+.check-on {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 10px 0 30px
+}
+
+.loginbox .check-on label {
+    margin-bottom: 0;
+    margin-left: 15px;
+    font-size: 14px;
+    color: #000;
+    font-weight: 400
+}
+
+.btn-back {
+    background: #777;
+    border-radius: 5px;
+    padding: 12px 15px;
+    font-weight: 700;
+    color: #fff;
+    margin-right: 25px
+}
+
+.btn-back:hover {
+    background: #746e6e;
+    color: #fff
+}
+
+.back-btn .btn-back {
+    font-weight: 700;
+    min-width: 163px;
+    padding: 12px 15px
+}
+
+.google-account {
+    margin-bottom: 20px
+}
+
+.account-list h4 {
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 20px
+}
+
+.account-list p {
+    color: #685f78;
+    font-size: 14px
+}
+
+.account-btn {
+    margin-top: 10px
+}
+
+.account-link,
+.google-link {
+    margin-top: 17px
+}
+
+.account-link .btn-primary {
+    min-width: 243px;
+    background-color: #777;
+    border: 1px solid #777;
+    font-size: 14px;
+    padding: 7px 15px
+}
+
+.account-link .btn-primary:hover {
+    opacity: .8
+}
+
+.google-link .btn-primary {
+    min-width: 191px;
+    background-color: #fff;
+    border: 1px solid #c4c4c4;
+    padding: 7px 15px;
+    font-size: 14px;
+    color: #263238
+}
+
+.reset-account p {
+    font-size: 14px;
+    color: #22100d;
+    margin-top: 39px
+}
+
+.reset-account p a {
+    color: #a6b646
+}
+
+.verification-code .form-group {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.verification-code .form-control {
+    min-height: 70px;
+    width: 70px;
+    text-align: center;
+    margin-right: 35px;
+    margin-bottom: 20px
+}
+
+.send-code a {
+    color: #392c7d;
+    font-size: 14px;
+    text-decoration: underline
+}
+
+.send-code {
+    margin: 7px 0 40px
+}
+
+#passwordInfo,
+#passwordInfos {
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 15px
+}
+
+
+.login-bg {
+    background-color: #0E664D;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    position: fixed;
+    min-height: 100vh;
+    align-items: center;
+}
+
+@media (max-width: 767px) {
+    .login-bg {
+        display: none !important;
+    }
+    .login-wrapper .loginbox{
+        padding: 24px !important;
+    }
+}
+
+.welcome-login {
+    padding: 20px 100px 0;
+}
+
+.form-control-label{
+    margin-bottom: 5px !important;
+    font-size: 13px !important;
+}
+
+
+.profile input, .profile select{
+    font-size: 13px !important;
+}
+
+.profile .form-control{
+    box-shadow: none !important;
+}
+
+.mt-n4 {
+    margin-top: -1.5rem !important
+}
+
+.upload{
+    color: #fff;
+    font-size: 25px !important;
+    position: relative;
+    top: 40px;
+    text-shadow: 5px 5px 5px rgba(255, 255, 255, 0.89) !important;
+    background: #000;
+    padding: 5px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center !important;
+    margin: auto !important;
+}
+
+.upload_image{
+    height: 100px !important;
+    width: 100px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+}
+
+.profile{
+    background: #F1F4FA !important;
+}

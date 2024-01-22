@@ -1,0 +1,80 @@
+[
+    {
+        "key": "team7",
+        "modal_id": "#team7",
+        "name": "ESTHER ADEOLA-BALOGUN",
+        "role": "MD/CEO",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "/images/teams/esther.png",
+        "details": "No Details Available"
+    },
+    {
+        "key": "team1",
+        "modal_id": "#team1",
+        "name": "BAYO SANNI",
+        "role": "Chairman",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "/images/teams/bayo.png",
+        "details": "Bayo Sanni as Chairman of the Board of Thrive MFB leads the strategic direction of the bank in its determined focus to make a lasting impact of building and sustaining thriving individual and business customers. With over 26 years of experience in commercial and retail banking, culminating in executive leadership roles in leading banks, Bayo understands how to create a lasting positive impact on our customers. As an entrepreneur himself, with ownership of Catilas Resources Limited (major investor in Thrive MFB) and Novopath Homes Limited, Bayo understands the challenges MSMEs face in today’s Nigeria. His experience is further enriched from being a non-executive and independent Director on the board of a few mid-sized companies, including SPOK Capital Limited, IO Furniture Limited and Black Pelican Limited. Bayo holds first and second degrees in Finance from the University of Lagos and has had further professional training locally and abroad. He is married with two adult children."
+    },
+    {
+        "key": "team2",
+        "modal_id": "#team2",
+        "name": "NKIRU OGUADINMA",
+        "role": "Director",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "/images/teams/nkiru.png",
+        "details": "Nkiruka Moghalu-Oguadinma sits on the Board of Thrive MFB overseeing the Finance and General-Purpose Committee. Nkiru is an accomplished Marketing and Corporate Communication Expert with over 20 years experience working in the Banking, Healthcare, Insurance and Marketing Communication Industry. She has served at C-suit Level as Group Director, Marketing & Business Development, Verdant Zeal Group; the Chief Marketing Officer (CMO) at HYGEIA Group and currently the Group COO, Red Slate (Group) Limited, a Growth Marketing and Investment Group in Lagos Nigeria She holds an MBA from the Metropolitan University UK and a BSc. in Marketing from the University of Calabar, Nigeria. She is an associate member of the Chartered Institute of Marketing UK, WIMBIZ and has several certifications from CIM UK, Jack Canfield Coaching Institute USA, Global Customer Experience Management Professional Group (GCEM) and Landmark Education USA, to mention a few. A Business and Brand Strategist, Prolific Writer and Author, Training Facilitator, Speaker, and Personal and Executive Coach, helping individuals and organizations re-sharpen their focus and move from their current state to their desired reality."
+    },
+    {
+        "key": "team3",
+        "modal_id": "#team3",
+        "name": "FUNMILAYO AROWOOGUN",
+        "role": "Director",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "/images/teams/funmilayo.png",
+        "details": " No Details available "
+    },
+    {
+        "key": "team4",
+        "modal_id": "#team4",
+        "name": "RICHARD AYIBIOWU",
+        "role": "Director",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "/images/teams/richard.png",
+        "details": "No Details Available"
+    },
+    {
+        "key": "team5",
+        "modal_id": "#team5",
+        "name": "JOHN IWUAJOKU",
+        "role": "Director",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "/images/teams/john.png",
+        "details": "No Details Available"
+    },
+    {
+        "key": "team6",
+        "modal_id": "#team6",
+        "name": "BABALOLA THOMAS",
+        "role": "Director",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com",
+        "twitter": "http://twitter.com",
+        "image": "https://images.unsplash.com/photo-1614023342667-6f060e9d1e04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFwcHklMjBibGFjayUyMG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "No Details Available"
+    }
+]
+

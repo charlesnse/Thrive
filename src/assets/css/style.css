@@ -1,0 +1,100 @@
+.navbar-toggler{
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.offcanvas{
+    width: 300px !important;
+}
+
+.offcanvas-body ul li{
+    padding-bottom: 15px !important;
+}
+
+.modal{
+    height: 500px !important;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: var(--bs-accordion-btn-icon);
+    transform: var(--bs-accordion-btn-icon-transform);
+}
+
+
+.error-page-area .error-box h1 {
+	font-size: 200px;
+	font-weight: 900;
+	line-height: 140px;
+	margin-bottom: 30px;
+}
+
+@media(max-width:767px) {
+    .error-page-area .error-box h1 {
+        font-size: 150px;
+    }
+}
+
+.error-page-area .error-box h2 {
+	font-weight: 900;
+}
+
+.error-page-area .error-box p {
+	padding: 0 10%;
+}
+
+.error-page-area .error-box a.btn {
+	margin-top: 10px;
+}
+
+select{
+    box-shadow: none !important;
+}
+
+.css-1s2u09g-control, .css-1pahdxg-control{
+    height: 50px !important;
+    min-height: 50px !important;
+}
+
+.input-range__slider {
+    appearance: none;
+    background: var(--color-main);
+    border: 10px solid var(--color-blue4);
+    border-radius: 100%;
+    cursor: pointer;
+    display: block;
+    height: 1rem;
+    margin-left: -0.5rem;
+    margin-top: -0.75rem;
+    outline: none;
+    position: absolute;
+    top: 40%;
+    transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+    width: 1rem;
+}
+
+.text-primary{
+    color: var(--color-main) !important;
+}
+
+.input-range__slider:active {
+    transform: scale(1.0);
+}
+
+.input-range__track--active{
+    background-color: var(--color-main);
+}
+
+.loan_type_image{
+    height: 170px !important;
+}
+
+.loan_info .form-control, .loan_info select{
+    padding: 15px;
+}
+
+.go2072408551{
+    font-size: 12px !important;
+    font-weight: light !important;
+    color: #000 !important;
+  }
+  

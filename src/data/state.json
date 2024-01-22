@@ -1,0 +1,3033 @@
+[
+    {
+        "code": "8a858f7d5cf9aef9015cff5201c57e32",
+        "name": "FCT",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Abaji",
+                "eligible": true
+            },
+            {
+                "name": "Abuja Municipal",
+                "eligible": true
+            },
+            {
+                "name": "Bwari",
+                "eligible": true
+            },
+            {
+                "name": "Gwagwalada",
+                "eligible": true
+            },
+            {
+                "name": "Kuje",
+                "eligible": true
+            },
+            {
+                "name": "Kwali",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201c97e33",
+        "name": "Abia",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Aba North",
+                "eligible": true
+            },
+            {
+                "name": "Aba South",
+                "eligible": true
+            },
+            {
+                "name": "Umuahia North",
+                "eligible": true
+            },
+            {
+                "name": "Umuahia South",
+                "eligible": true
+            },
+            {
+                "name": "Arochukwu",
+                "eligible": true
+            },
+            {
+                "name": "Bende",
+                "eligible": true
+            },
+            {
+                "name": "Ikwuano",
+                "eligible": true
+            },
+            {
+                "name": "Isiala-Ngwa North",
+                "eligible": false
+            },
+            {
+                "name": "Isiala-Ngwa South",
+                "eligible": true
+            },
+            {
+                "name": "Obi Nwa",
+                "eligible": true
+            },
+            {
+                "name": "Ohafia",
+                "eligible": true
+            },
+            {
+                "name": "Isuikwato",
+                "eligible": true
+            },
+            {
+                "name": "Osisioma",
+                "eligible": true
+            },
+            {
+                "name": "Ngwa",
+                "eligible": true
+            },
+            {
+                "name": "Ukwa East",
+                "eligible": true
+            },
+            {
+                "name": "Ukwa West",
+                "eligible": true
+            },
+            {
+                "name": "Umu-Neochi",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858fdb61c44fe70161c798f8955c1d",
+        "name": "Akwa Ibom",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Eket",
+                "eligible": true
+            },
+            {
+                "name": "Uyo",
+                "eligible": true
+            },
+            {
+                "name": "Abak",
+                "eligible": true
+            },
+            {
+                "name": "Eastern Obolo",
+                "eligible": true
+            },
+            {
+                "name": "Esit Eket",
+                "eligible": true
+            },
+            {
+                "name": "Essien Udim",
+                "eligible": true
+            },
+            {
+                "name": "Etim Ekpo",
+                "eligible": true
+            },
+            {
+                "name": "Etinan",
+                "eligible": true
+            },
+            {
+                "name": "Ibeno",
+                "eligible": true
+            },
+            {
+                "name": "Ibesikpo Asutan",
+                "eligible": true
+            },
+            {
+                "name": "Ibiono Ibom",
+                "eligible": true
+            },
+            {
+                "name": "Ika",
+                "eligible": true
+            },
+            {
+                "name": "Ikono",
+                "eligible": true
+            },
+            {
+                "name": "Ikot Abasi",
+                "eligible": true
+            },
+            {
+                "name": "Ikot Ekpene",
+                "eligible": true
+            },
+            {
+                "name": "Ini",
+                "eligible": true
+            },
+            {
+                "name": "Itu",
+                "eligible": true
+            },
+            {
+                "name": "Mbo",
+                "eligible": true
+            },
+            {
+                "name": "Mkpat Enin",
+                "eligible": true
+            },
+            {
+                "name": "Nsit Atai",
+                "eligible": true
+            },
+            {
+                "name": "Nsit Ibom",
+                "eligible": true
+            },
+            {
+                "name": "Nsit Ubium",
+                "eligible": true
+            },
+            {
+                "name": "Obot Akara",
+                "eligible": true
+            },
+            {
+                "name": "Okobo",
+                "eligible": true
+            },
+            {
+                "name": "Onna",
+                "eligible": true
+            },
+            {
+                "name": "Oron",
+                "eligible": true
+            },
+            {
+                "name": "Oruk Anam",
+                "eligible": true
+            },
+            {
+                "name": "Udung Uko",
+                "eligible": true
+            },
+            {
+                "name": "Ukanafun",
+                "eligible": true
+            },
+            {
+                "name": "Uruan",
+                "eligible": true
+            },
+            {
+                "name": "Urue-Offong/Oruko",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201c97e34",
+        "name": "Anambra",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Awka North",
+                "eligible": true
+            },
+            {
+                "name": "Awka South",
+                "eligible": true
+            },
+            {
+                "name": "Nnewi",
+                "eligible": false
+            },
+            {
+                "name": "Onitsha",
+                "eligible": false
+            },
+            {
+                "name": "Onitsha north",
+                "eligible": true
+            },
+            {
+                "name": "Onitsha South",
+                "eligible": true
+            },
+            {
+                "name": "Nnewi South",
+                "eligible": true
+            },
+            {
+                "name": "Nnewi North",
+                "eligible": true
+            },
+            {
+                "name": "Aguata",
+                "eligible": true
+            },
+            {
+                "name": "Anambra East",
+                "eligible": true
+            },
+            {
+                "name": "Anambra West",
+                "eligible": true
+            },
+            {
+                "name": "Anaocha",
+                "eligible": true
+            },
+            {
+                "name": "Ayamelum",
+                "eligible": true
+            },
+            {
+                "name": "Dunukofia",
+                "eligible": true
+            },
+            {
+                "name": "Ekwusigo",
+                "eligible": true
+            },
+            {
+                "name": "Idemili North",
+                "eligible": true
+            },
+            {
+                "name": "Idemili south",
+                "eligible": true
+            },
+            {
+                "name": "Ihiala",
+                "eligible": true
+            },
+            {
+                "name": "Njikoka",
+                "eligible": true
+            },
+            {
+                "name": "Ogbaru",
+                "eligible": true
+            },
+            {
+                "name": "Orumba North",
+                "eligible": true
+            },
+            {
+                "name": "Orumba South",
+                "eligible": true
+            },
+            {
+                "name": "Oyi",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ef96be52f1c016be5dd80ce2de4",
+        "name": "Benue",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Makurdi",
+                "eligible": true
+            },
+            {
+                "name": "Ado",
+                "eligible": true
+            },
+            {
+                "name": "Agatu",
+                "eligible": true
+            },
+            {
+                "name": "Apa",
+                "eligible": true
+            },
+            {
+                "name": "Buruku",
+                "eligible": true
+            },
+            {
+                "name": "Gboko",
+                "eligible": true
+            },
+            {
+                "name": "Guma",
+                "eligible": true
+            },
+            {
+                "name": "Gwer East",
+                "eligible": true
+            },
+            {
+                "name": "Gwer West",
+                "eligible": true
+            },
+            {
+                "name": "Katsina-Ala",
+                "eligible": true
+            },
+            {
+                "name": "Konshisha",
+                "eligible": true
+            },
+            {
+                "name": "Kwande",
+                "eligible": true
+            },
+            {
+                "name": "Logo",
+                "eligible": true
+            },
+            {
+                "name": "Obi",
+                "eligible": true
+            },
+            {
+                "name": "Ogbadibo",
+                "eligible": true
+            },
+            {
+                "name": "Oju",
+                "eligible": true
+            },
+            {
+                "name": "Okpokwu",
+                "eligible": true
+            },
+            {
+                "name": "Ohimini",
+                "eligible": true
+            },
+            {
+                "name": "Oturkpo",
+                "eligible": true
+            },
+            {
+                "name": "Tarka",
+                "eligible": true
+            },
+            {
+                "name": "Ukum",
+                "eligible": true
+            },
+            {
+                "name": "Ushongo",
+                "eligible": true
+            },
+            {
+                "name": "Vandeikya",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201c97e35",
+        "name": "Cross River",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Calabar Municipality",
+                "eligible": true
+            },
+            {
+                "name": "Akpabuyo",
+                "eligible": true
+            },
+            {
+                "name": "Odukpani",
+                "eligible": true
+            },
+            {
+                "name": "Akamkpa",
+                "eligible": true
+            },
+            {
+                "name": "Biase",
+                "eligible": true
+            },
+            {
+                "name": "Abi",
+                "eligible": true
+            },
+            {
+                "name": "Ikom",
+                "eligible": true
+            },
+            {
+                "name": "Yarkur",
+                "eligible": true
+            },
+            {
+                "name": "Odubra",
+                "eligible": true
+            },
+            {
+                "name": "Boki",
+                "eligible": true
+            },
+            {
+                "name": "Ogoja",
+                "eligible": true
+            },
+            {
+                "name": "Yala",
+                "eligible": true
+            },
+            {
+                "name": "Obanliku",
+                "eligible": true
+            },
+            {
+                "name": "Obudu",
+                "eligible": true
+            },
+            {
+                "name": "Calabar South",
+                "eligible": true
+            },
+            {
+                "name": "Etung",
+                "eligible": true
+            },
+            {
+                "name": "Bekwara",
+                "eligible": true
+            },
+            {
+                "name": "Bakassi",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858fdb61c44fe70161c79a758e5d8b",
+        "name": "Delta",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Asaba",
+                "eligible": true
+            },
+            {
+                "name": "Ughelli",
+                "eligible": false
+            },
+            {
+                "name": "Warri Central",
+                "eligible": true
+            },
+            {
+                "name": "Oshimili",
+                "eligible": true
+            },
+            {
+                "name": "Aniocha",
+                "eligible": true
+            },
+            {
+                "name": "Aniocha South",
+                "eligible": true
+            },
+            {
+                "name": "Ika South",
+                "eligible": true
+            },
+            {
+                "name": "Ika North-East",
+                "eligible": true
+            },
+            {
+                "name": "Ndokwa West",
+                "eligible": true
+            },
+            {
+                "name": "Ndokwa East",
+                "eligible": true
+            },
+            {
+                "name": "Isoko south",
+                "eligible": true
+            },
+            {
+                "name": "Isoko North",
+                "eligible": true
+            },
+            {
+                "name": "Bomadi",
+                "eligible": true
+            },
+            {
+                "name": "Burutu",
+                "eligible": true
+            },
+            {
+                "name": "Ughelli South",
+                "eligible": true
+            },
+            {
+                "name": "Ughelli North",
+                "eligible": true
+            },
+            {
+                "name": "Ethiope West",
+                "eligible": true
+            },
+            {
+                "name": "Ethiope East",
+                "eligible": true
+            },
+            {
+                "name": "Sapele",
+                "eligible": true
+            },
+            {
+                "name": "Okpe",
+                "eligible": true
+            },
+            {
+                "name": "Warri North",
+                "eligible": true
+            },
+            {
+                "name": "Warri South",
+                "eligible": true
+            },
+            {
+                "name": "Uvwie",
+                "eligible": true
+            },
+            {
+                "name": "Udu",
+                "eligible": true
+            },
+            {
+                "name": "Ukwani ",
+                "eligible": true
+            },
+            {
+                "name": "Oshimili North",
+                "eligible": true
+            },
+            {
+                "name": "Patani",
+                "eligible": true
+            },
+            {
+                "name": "Oshimilli North",
+                "eligible": false
+            },
+            {
+                "name": "Oshimilli South",
+                "eligible": false
+            },
+            {
+                "name": "Aniocha North",
+                "eligible": false
+            },
+            {
+                "name": "Ika North east",
+                "eligible": false
+            },
+            {
+                "name": "Ukwuani",
+                "eligible": false
+            },
+            {
+                "name": "Warri South West",
+                "eligible": false
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201c97e36",
+        "name": "Ebonyi",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Abakaliki",
+                "eligible": true
+            },
+            {
+                "name": "Afikpo South",
+                "eligible": true
+            },
+            {
+                "name": "Afikpo North",
+                "eligible": true
+            },
+            {
+                "name": "Onicha",
+                "eligible": true
+            },
+            {
+                "name": "Ohaozara",
+                "eligible": true
+            },
+            {
+                "name": "Ishielu",
+                "eligible": true
+            },
+            {
+                "name": "lkwo",
+                "eligible": true
+            },
+            {
+                "name": "Ezza",
+                "eligible": true
+            },
+            {
+                "name": "Ezza South",
+                "eligible": true
+            },
+            {
+                "name": "Ohaukwu",
+                "eligible": true
+            },
+            {
+                "name": "Ebonyi",
+                "eligible": true
+            },
+            {
+                "name": "Ivo",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201c97e37",
+        "name": "Edo",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Oredo",
+                "eligible": true
+            },
+            {
+                "name": "Benin",
+                "eligible": true
+            },
+            {
+                "name": "Egor",
+                "eligible": true
+            },
+            {
+                "name": "Orhionmwon",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201cd7e38",
+        "name": "Ekiti",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Ado",
+                "eligible": true
+            },
+            {
+                "name": "Ikare",
+                "eligible": false
+            },
+            {
+                "name": "Ekiti-East",
+                "eligible": true
+            },
+            {
+                "name": "Ekiti-West",
+                "eligible": true
+            },
+            {
+                "name": "Emure/Ise/Orun",
+                "eligible": true
+            },
+            {
+                "name": "Ekiti South-West",
+                "eligible": true
+            },
+            {
+                "name": "Ikere Ekiti",
+                "eligible": true
+            },
+            {
+                "name": "Irepodun",
+                "eligible": true
+            },
+            {
+                "name": "Ijero",
+                "eligible": true
+            },
+            {
+                "name": "Ido/Osi",
+                "eligible": true
+            },
+            {
+                "name": "Oye",
+                "eligible": true
+            },
+            {
+                "name": "Ikole",
+                "eligible": true
+            },
+            {
+                "name": "Moba",
+                "eligible": true
+            },
+            {
+                "name": "Gbonyin",
+                "eligible": true
+            },
+            {
+                "name": "Efon",
+                "eligible": true
+            },
+            {
+                "name": "Ise/Orun",
+                "eligible": true
+            },
+            {
+                "name": "Ilejemeje",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201cd7e39",
+        "name": "Enugu",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Enugu East",
+                "eligible": true
+            },
+            {
+                "name": "Enugu North",
+                "eligible": true
+            },
+            {
+                "name": "Enugu South",
+                "eligible": true
+            },
+            {
+                "name": "Nsukka",
+                "eligible": true
+            },
+            {
+                "name": "Igbo-Eze South",
+                "eligible": true
+            },
+            {
+                "name": "Nkanu",
+                "eligible": true
+            },
+            {
+                "name": "Udi Agwu",
+                "eligible": true
+            },
+            {
+                "name": "Oji-River",
+                "eligible": true
+            },
+            {
+                "name": "Ezeagu",
+                "eligible": true
+            },
+            {
+                "name": "Igbo-Eze North",
+                "eligible": true
+            },
+            {
+                "name": "Isi-Uzo",
+                "eligible": true
+            },
+            {
+                "name": "Igbo-Ekiti",
+                "eligible": true
+            },
+            {
+                "name": "Uzo-Uwani",
+                "eligible": true
+            },
+            {
+                "name": "Aninri",
+                "eligible": true
+            },
+            {
+                "name": "Nkanu East",
+                "eligible": true
+            },
+            {
+                "name": "Udenu",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201cd7e3a",
+        "name": "Imo",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Owerri Municipal",
+                "eligible": true
+            },
+            {
+                "name": "Owerri North",
+                "eligible": true
+            },
+            {
+                "name": "Owerri South",
+                "eligible": true
+            },
+            {
+                "name": "Aboh-Mbaise",
+                "eligible": true
+            },
+            {
+                "name": "Ahiazu-Mbaise",
+                "eligible": true
+            },
+            {
+                "name": "Ehime-Mbano",
+                "eligible": true
+            },
+            {
+                "name": "Ezinihitte",
+                "eligible": true
+            },
+            {
+                "name": "Ideato North",
+                "eligible": true
+            },
+            {
+                "name": "Ideato South",
+                "eligible": true
+            },
+            {
+                "name": "Ihitte/Uboma",
+                "eligible": true
+            },
+            {
+                "name": "Ikeduru",
+                "eligible": true
+            },
+            {
+                "name": "Isiala Mbano",
+                "eligible": true
+            },
+            {
+                "name": "Isu",
+                "eligible": true
+            },
+            {
+                "name": "Mbaitoli",
+                "eligible": true
+            },
+            {
+                "name": "Ngor-Okpala",
+                "eligible": true
+            },
+            {
+                "name": "Njaba",
+                "eligible": true
+            },
+            {
+                "name": "Nwangele",
+                "eligible": true
+            },
+            {
+                "name": "Nkwerre",
+                "eligible": true
+            },
+            {
+                "name": "Obowo",
+                "eligible": true
+            },
+            {
+                "name": "Oguta",
+                "eligible": true
+            },
+            {
+                "name": "Ohaji/Egbema",
+                "eligible": true
+            },
+            {
+                "name": "Okigwe",
+                "eligible": true
+            },
+            {
+                "name": "Orlu",
+                "eligible": true
+            },
+            {
+                "name": "Orsu",
+                "eligible": true
+            },
+            {
+                "name": "Oru East",
+                "eligible": true
+            },
+            {
+                "name": "Oru West",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8e466b93c100016b942a11e32189",
+        "name": "Kaduna",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Kaduna",
+                "eligible": true
+            },
+            {
+                "name": "Birni-Gwari",
+                "eligible": true
+            },
+            {
+                "name": "Chikun",
+                "eligible": true
+            },
+            {
+                "name": "Giwa",
+                "eligible": true
+            },
+            {
+                "name": "Igabi",
+                "eligible": true
+            },
+            {
+                "name": "Ikara",
+                "eligible": true
+            },
+            {
+                "name": "jaba",
+                "eligible": true
+            },
+            {
+                "name": "Jema'a",
+                "eligible": true
+            },
+            {
+                "name": "Kachia",
+                "eligible": true
+            },
+            {
+                "name": "Kaduna North",
+                "eligible": true
+            },
+            {
+                "name": "Kaduna South",
+                "eligible": true
+            },
+            {
+                "name": "Kagarko",
+                "eligible": true
+            },
+            {
+                "name": "Kajuru",
+                "eligible": true
+            },
+            {
+                "name": "Kaura",
+                "eligible": true
+            },
+            {
+                "name": "Kauru",
+                "eligible": true
+            },
+            {
+                "name": "Kubau",
+                "eligible": true
+            },
+            {
+                "name": "Kudan",
+                "eligible": true
+            },
+            {
+                "name": "Lere",
+                "eligible": true
+            },
+            {
+                "name": "Makarfi",
+                "eligible": true
+            },
+            {
+                "name": "Sabon-Gari",
+                "eligible": true
+            },
+            {
+                "name": "Sanga",
+                "eligible": true
+            },
+            {
+                "name": "Soba",
+                "eligible": true
+            },
+            {
+                "name": "Zango-Kataf",
+                "eligible": true
+            },
+            {
+                "name": "Zaria",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201cd7e3b",
+        "name": "Kwara",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Ilorin East",
+                "eligible": true
+            },
+            {
+                "name": "Ilorin West",
+                "eligible": true
+            },
+            {
+                "name": "Offa",
+                "eligible": true
+            },
+            {
+                "name": "Asa",
+                "eligible": true
+            },
+            {
+                "name": "Baruten",
+                "eligible": true
+            },
+            {
+                "name": "Edu",
+                "eligible": true
+            },
+            {
+                "name": "Ekiti",
+                "eligible": true
+            },
+            {
+                "name": "Ifelodun",
+                "eligible": true
+            },
+            {
+                "name": "Irepodun",
+                "eligible": true
+            },
+            {
+                "name": "Isin",
+                "eligible": true
+            },
+            {
+                "name": "Kaiama",
+                "eligible": true
+            },
+            {
+                "name": "Moro",
+                "eligible": true
+            },
+            {
+                "name": "Oke-Ero",
+                "eligible": true
+            },
+            {
+                "name": "Oyun",
+                "eligible": true
+            },
+            {
+                "name": "Pategi",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ef96be52f1c016be5dd80ce2de5",
+        "name": "Kogi",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Okene",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201cd7e3c",
+        "name": "Lagos",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Agege",
+                "eligible": false
+            },
+            {
+                "name": "Ajeromi-Ifelodun",
+                "eligible": false
+            },
+            {
+                "name": "Alimosho",
+                "eligible": false
+            },
+            {
+                "name": "Amuwo-Odofin",
+                "eligible": true
+            },
+            {
+                "name": "Apapa",
+                "eligible": true
+            },
+            {
+                "name": "Badagry",
+                "eligible": true
+            },
+            {
+                "name": "Epe",
+                "eligible": true
+            },
+            {
+                "name": "Eti-Osa",
+                "eligible": true
+            },
+            {
+                "name": "Ibeju/Lekki",
+                "eligible": true
+            },
+            {
+                "name": "Ifako-Ijaye",
+                "eligible": true
+            },
+            {
+                "name": "Ikeja",
+                "eligible": true
+            },
+            {
+                "name": "Ikorodu",
+                "eligible": true
+            },
+            {
+                "name": "Kosofe",
+                "eligible": true
+            },
+            {
+                "name": "Lagos Island",
+                "eligible": true
+            },
+            {
+                "name": "Lagos Mainland",
+                "eligible": true
+            },
+            {
+                "name": "Mushin",
+                "eligible": true
+            },
+            {
+                "name": "Ojo",
+                "eligible": true
+            },
+            {
+                "name": "Oshodi-Isolo",
+                "eligible": true
+            },
+            {
+                "name": "Shomolu",
+                "eligible": true
+            },
+            {
+                "name": "Surulere",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ef96be52f1c016be5dd9d5b2de6",
+        "name": "Nasarawa",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Akwanga",
+                "eligible": true
+            },
+            {
+                "name": "Awe",
+                "eligible": true
+            },
+            {
+                "name": "Doma",
+                "eligible": true
+            },
+            {
+                "name": "Karu",
+                "eligible": true
+            },
+            {
+                "name": "Keana",
+                "eligible": true
+            },
+            {
+                "name": "Keffi",
+                "eligible": true
+            },
+            {
+                "name": "Kokona",
+                "eligible": true
+            },
+            {
+                "name": "Lafia",
+                "eligible": true
+            },
+            {
+                "name": "Nasarawa",
+                "eligible": true
+            },
+            {
+                "name": "Nasarawa-Eggon",
+                "eligible": true
+            },
+            {
+                "name": "Obi",
+                "eligible": true
+            },
+            {
+                "name": "Toto",
+                "eligible": true
+            },
+            {
+                "name": "Wamba",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ef96be52f1c016be5dd9d5b2de7",
+        "name": "Niger",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Minna",
+                "eligible": true
+            },
+            {
+                "name": "Agaie",
+                "eligible": true
+            },
+            {
+                "name": "Agwara",
+                "eligible": true
+            },
+            {
+                "name": "Bida",
+                "eligible": true
+            },
+            {
+                "name": "Borgu",
+                "eligible": true
+            },
+            {
+                "name": "Bosso",
+                "eligible": true
+            },
+            {
+                "name": "Chanchaga",
+                "eligible": true
+            },
+            {
+                "name": "Edati",
+                "eligible": true
+            },
+            {
+                "name": "Gbako",
+                "eligible": true
+            },
+            {
+                "name": "Gurara",
+                "eligible": true
+            },
+            {
+                "name": "Katcha",
+                "eligible": true
+            },
+            {
+                "name": "Kontagora",
+                "eligible": true
+            },
+            {
+                "name": "Lapai",
+                "eligible": true
+            },
+            {
+                "name": "Lavun",
+                "eligible": true
+            },
+            {
+                "name": "Magama",
+                "eligible": true
+            },
+            {
+                "name": "Mariga",
+                "eligible": true
+            },
+            {
+                "name": "Mashegu",
+                "eligible": true
+            },
+            {
+                "name": "Mokwa",
+                "eligible": true
+            },
+            {
+                "name": "Muya",
+                "eligible": true
+            },
+            {
+                "name": "Pailoro",
+                "eligible": true
+            },
+            {
+                "name": "Rafi",
+                "eligible": true
+            },
+            {
+                "name": "Rijau",
+                "eligible": true
+            },
+            {
+                "name": "Shiroro",
+                "eligible": true
+            },
+            {
+                "name": "Suleja",
+                "eligible": true
+            },
+            {
+                "name": "Tafa",
+                "eligible": true
+            },
+            {
+                "name": "Wushishi",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201d17e3d",
+        "name": "Ogun",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Abeokuta North",
+                "eligible": true
+            },
+            {
+                "name": "Abeokuta South",
+                "eligible": true
+            },
+            {
+                "name": "Ado-Odo/Ota",
+                "eligible": true
+            },
+            {
+                "name": "Egbado North",
+                "eligible": true
+            },
+            {
+                "name": "Egbado South",
+                "eligible": true
+            },
+            {
+                "name": "Ewekoro",
+                "eligible": true
+            },
+            {
+                "name": "Ifo",
+                "eligible": true
+            },
+            {
+                "name": "Ijebu East",
+                "eligible": true
+            },
+            {
+                "name": "Ijebu North",
+                "eligible": true
+            },
+            {
+                "name": "Ijebu North East",
+                "eligible": true
+            },
+            {
+                "name": "Ijebu Ode",
+                "eligible": true
+            },
+            {
+                "name": "Ikenne",
+                "eligible": true
+            },
+            {
+                "name": "Imeko-Afon",
+                "eligible": true
+            },
+            {
+                "name": "Ipokia",
+                "eligible": true
+            },
+            {
+                "name": "Obafemi-Owode",
+                "eligible": true
+            },
+            {
+                "name": "Ogun Waterside",
+                "eligible": true
+            },
+            {
+                "name": "Odeda",
+                "eligible": true
+            },
+            {
+                "name": "Odogbolu",
+                "eligible": true
+            },
+            {
+                "name": "Remo North",
+                "eligible": true
+            },
+            {
+                "name": "Shagamu",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201d17e3e",
+        "name": "Ondo",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Akure North",
+                "eligible": true
+            },
+            {
+                "name": "Akure South",
+                "eligible": true
+            },
+            {
+                "name": "Ondo East",
+                "eligible": true
+            },
+            {
+                "name": "Ondo West",
+                "eligible": true
+            },
+            {
+                "name": "Owo",
+                "eligible": true
+            },
+            {
+                "name": "Akoko North East",
+                "eligible": true
+            },
+            {
+                "name": "Akoko North West",
+                "eligible": true
+            },
+            {
+                "name": "Akoko South",
+                "eligible": true
+            },
+            {
+                "name": "Akure East",
+                "eligible": true
+            },
+            {
+                "name": "Ese-Odo",
+                "eligible": true
+            },
+            {
+                "name": "Idanre",
+                "eligible": true
+            },
+            {
+                "name": "Ifedore",
+                "eligible": true
+            },
+            {
+                "name": "Ilaje",
+                "eligible": true
+            },
+            {
+                "name": "Ile-Oluji",
+                "eligible": true
+            },
+            {
+                "name": "Okeigbo",
+                "eligible": true
+            },
+            {
+                "name": "Irele",
+                "eligible": true
+            },
+            {
+                "name": "Odigbo",
+                "eligible": true
+            },
+            {
+                "name": "Okitipupa",
+                "eligible": true
+            },
+            {
+                "name": "Ose",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201d17e3f",
+        "name": "Osun",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Osogbo",
+                "eligible": true
+            },
+            {
+                "name": "Ile-ife",
+                "eligible": false
+            },
+            {
+                "name": "Ilesha",
+                "eligible": false
+            },
+            {
+                "name": "Ede",
+                "eligible": false
+            },
+            {
+                "name": "Aiyedade",
+                "eligible": true
+            },
+            {
+                "name": "Aiyedire",
+                "eligible": true
+            },
+            {
+                "name": "Atakumosa East",
+                "eligible": true
+            },
+            {
+                "name": "Atakumosa West",
+                "eligible": true
+            },
+            {
+                "name": "Boluwaduro",
+                "eligible": true
+            },
+            {
+                "name": "Boripe",
+                "eligible": true
+            },
+            {
+                "name": "Ede North",
+                "eligible": true
+            },
+            {
+                "name": "Ede South",
+                "eligible": true
+            },
+            {
+                "name": "Egbedore",
+                "eligible": true
+            },
+            {
+                "name": "Ejigbo",
+                "eligible": true
+            },
+            {
+                "name": "Ife Central",
+                "eligible": true
+            },
+            {
+                "name": "Ife East",
+                "eligible": true
+            },
+            {
+                "name": "Ife North",
+                "eligible": true
+            },
+            {
+                "name": "Ife South",
+                "eligible": true
+            },
+            {
+                "name": "Ifedayo",
+                "eligible": true
+            },
+            {
+                "name": "Ifelodun",
+                "eligible": true
+            },
+            {
+                "name": "Ila",
+                "eligible": true
+            },
+            {
+                "name": "Ilesha East",
+                "eligible": true
+            },
+            {
+                "name": "Ilesha West",
+                "eligible": true
+            },
+            {
+                "name": "Irepodun",
+                "eligible": true
+            },
+            {
+                "name": "Irewole",
+                "eligible": true
+            },
+            {
+                "name": "Isokan",
+                "eligible": true
+            },
+            {
+                "name": "Iwo",
+                "eligible": true
+            },
+            {
+                "name": "Obokun",
+                "eligible": true
+            },
+            {
+                "name": "Odo-Otin",
+                "eligible": true
+            },
+            {
+                "name": "Ola-Oluwa",
+                "eligible": true
+            },
+            {
+                "name": "Olorunda",
+                "eligible": true
+            },
+            {
+                "name": "Oriade",
+                "eligible": true
+            },
+            {
+                "name": "Orolu",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201d17e40",
+        "name": "Oyo",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Ibadan Central",
+                "eligible": false
+            },
+            {
+                "name": "Ibadan North",
+                "eligible": true
+            },
+            {
+                "name": "Ibadan North West",
+                "eligible": true
+            },
+            {
+                "name": "Ibadan South East",
+                "eligible": true
+            },
+            {
+                "name": "Ibadan South West",
+                "eligible": true
+            },
+            {
+                "name": "Lagelu Ogbomosho North",
+                "eligible": true
+            },
+            {
+                "name": "Ogbomosho South",
+                "eligible": true
+            },
+            {
+                "name": "Oyo East",
+                "eligible": true
+            },
+            {
+                "name": "Oyo West",
+                "eligible": true
+            },
+            {
+                "name": "Akinyele",
+                "eligible": true
+            },
+            {
+                "name": "Ibadan North East",
+                "eligible": true
+            },
+            {
+                "name": "Oluyole",
+                "eligible": true
+            },
+            {
+                "name": "Ido",
+                "eligible": true
+            },
+            {
+                "name": "Egbeda",
+                "eligible": true
+            },
+            {
+                "name": "Ona Ara",
+                "eligible": true
+            },
+            {
+                "name": "Afijio",
+                "eligible": true
+            },
+            {
+                "name": "Atiba",
+                "eligible": true
+            },
+            {
+                "name": "Atigbo",
+                "eligible": true
+            },
+            {
+                "name": "Ibarapa Central",
+                "eligible": true
+            },
+            {
+                "name": "Ibarapa East",
+                "eligible": true
+            },
+            {
+                "name": "Ibarapa North",
+                "eligible": true
+            },
+            {
+                "name": "Irepo",
+                "eligible": true
+            },
+            {
+                "name": "Iseyin",
+                "eligible": true
+            },
+            {
+                "name": "Itesiwaju",
+                "eligible": true
+            },
+            {
+                "name": "Iwajowa",
+                "eligible": true
+            },
+            {
+                "name": "Kajola",
+                "eligible": true
+            },
+            {
+                "name": "Ogo Oluwa",
+                "eligible": true
+            },
+            {
+                "name": "Olorunsogo",
+                "eligible": true
+            },
+            {
+                "name": "Orelope",
+                "eligible": true
+            },
+            {
+                "name": "Ori Ire",
+                "eligible": true
+            },
+            {
+                "name": "Saki East",
+                "eligible": true
+            },
+            {
+                "name": "Saki West",
+                "eligible": true
+            },
+            {
+                "name": "Surulere",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a858f7d5cf9aef9015cff5201d17e41",
+        "name": "Rivers",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Eleme",
+                "eligible": true
+            },
+            {
+                "name": "Port Harcourt",
+                "eligible": true
+            },
+            {
+                "name": "Abua/Odual",
+                "eligible": true
+            },
+            {
+                "name": "Ahoada East",
+                "eligible": true
+            },
+            {
+                "name": "Ahoada West",
+                "eligible": true
+            },
+            {
+                "name": "Akuku Toru",
+                "eligible": true
+            },
+            {
+                "name": "Andoni",
+                "eligible": true
+            },
+            {
+                "name": "Asari-Toru",
+                "eligible": true
+            },
+            {
+                "name": "Bonny",
+                "eligible": true
+            },
+            {
+                "name": "Degema",
+                "eligible": true
+            },
+            {
+                "name": "Emohua",
+                "eligible": true
+            },
+            {
+                "name": "Etche",
+                "eligible": true
+            },
+            {
+                "name": "Gokana",
+                "eligible": true
+            },
+            {
+                "name": "Ikwerre",
+                "eligible": true
+            },
+            {
+                "name": "Khana",
+                "eligible": true
+            },
+            {
+                "name": "Obia/Akpor",
+                "eligible": true
+            },
+            {
+                "name": "Ogba/Egbema/Ndoni",
+                "eligible": true
+            },
+            {
+                "name": "Ogu/Bolo",
+                "eligible": true
+            },
+            {
+                "name": "Okrika",
+                "eligible": true
+            },
+            {
+                "name": "Omumma",
+                "eligible": true
+            },
+            {
+                "name": "Opobo/Nkoro",
+                "eligible": true
+            },
+            {
+                "name": "Oyigbo",
+                "eligible": true
+            },
+            {
+                "name": "Tai",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ef96be52f1c016be5dd9d5b2de8",
+        "name": "Taraba",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Ardo-kola",
+                "eligible": true
+            },
+            {
+                "name": "Bali",
+                "eligible": true
+            },
+            {
+                "name": "Donga",
+                "eligible": true
+            },
+            {
+                "name": "Gashaka",
+                "eligible": true
+            },
+            {
+                "name": "Cassol",
+                "eligible": true
+            },
+            {
+                "name": "Ibi",
+                "eligible": true
+            },
+            {
+                "name": "Jalingo",
+                "eligible": true
+            },
+            {
+                "name": "Karin-Lamido",
+                "eligible": true
+            },
+            {
+                "name": "Kurmi",
+                "eligible": true
+            },
+            {
+                "name": "Lau",
+                "eligible": true
+            },
+            {
+                "name": "Sardauna",
+                "eligible": true
+            },
+            {
+                "name": "Takum",
+                "eligible": true
+            },
+            {
+                "name": "Ussa",
+                "eligible": true
+            },
+            {
+                "name": "Wukari",
+                "eligible": true
+            },
+            {
+                "name": "Yorro",
+                "eligible": true
+            },
+            {
+                "name": "Zing",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8e58749110fa01749184d2100f2d",
+        "name": "Kano",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Kano Municipal",
+                "eligible": true
+            },
+            {
+                "name": "Dala",
+                "eligible": true
+            },
+            {
+                "name": "Fagge",
+                "eligible": true
+            },
+            {
+                "name": "Gwale",
+                "eligible": true
+            },
+            {
+                "name": "Kumbotso",
+                "eligible": true
+            },
+            {
+                "name": "Tarauni",
+                "eligible": true
+            },
+            {
+                "name": "Nassarawa",
+                "eligible": true
+            },
+            {
+                "name": "Ungogo",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a8c2df6cf1",
+        "name": "Bauchi",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Alkaleri",
+                "eligible": true
+            },
+            {
+                "name": "Bauchi",
+                "eligible": true
+            },
+            {
+                "name": "Bogoro",
+                "eligible": true
+            },
+            {
+                "name": "Damban",
+                "eligible": true
+            },
+            {
+                "name": "Darazo",
+                "eligible": true
+            },
+            {
+                "name": "Dass",
+                "eligible": true
+            },
+            {
+                "name": "Ganjuwa",
+                "eligible": true
+            },
+            {
+                "name": "Giade",
+                "eligible": true
+            },
+            {
+                "name": "Itas/Gadau",
+                "eligible": true
+            },
+            {
+                "name": "Jama are",
+                "eligible": true
+            },
+            {
+                "name": "Katagum",
+                "eligible": true
+            },
+            {
+                "name": "Kirfi",
+                "eligible": true
+            },
+            {
+                "name": "Misau",
+                "eligible": true
+            },
+            {
+                "name": "Ningi",
+                "eligible": true
+            },
+            {
+                "name": "Shira",
+                "eligible": true
+            },
+            {
+                "name": "Tafawa-Balewa",
+                "eligible": true
+            },
+            {
+                "name": "Toro",
+                "eligible": true
+            },
+            {
+                "name": "Warji",
+                "eligible": true
+            },
+            {
+                "name": "Zaki",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a8c2df6cf2",
+        "name": "Bayelsa",
+        "eligible": false,
+        "lga": [
+            {
+                "name": "Brass",
+                "eligible": true
+            },
+            {
+                "name": "Ekeremor",
+                "eligible": true
+            },
+            {
+                "name": "Kolokuma/Opokuma",
+                "eligible": true
+            },
+            {
+                "name": "Nembe",
+                "eligible": true
+            },
+            {
+                "name": "Ogbia",
+                "eligible": true
+            },
+            {
+                "name": "Sagbama",
+                "eligible": true
+            },
+            {
+                "name": "Southern Jaw",
+                "eligible": true
+            },
+            {
+                "name": "Yenegoa",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a8c2df6cf3",
+        "name": "Borno",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Abadam",
+                "eligible": true
+            },
+            {
+                "name": "Askira/Uba",
+                "eligible": true
+            },
+            {
+                "name": "Bama",
+                "eligible": true
+            },
+            {
+                "name": "Bayo",
+                "eligible": true
+            },
+            {
+                "name": "Biu",
+                "eligible": true
+            },
+            {
+                "name": "Chibok",
+                "eligible": true
+            },
+            {
+                "name": "Damboa",
+                "eligible": true
+            },
+            {
+                "name": "Dikwa",
+                "eligible": true
+            },
+            {
+                "name": "Gubio",
+                "eligible": true
+            },
+            {
+                "name": "Guzamala",
+                "eligible": true
+            },
+            {
+                "name": "Gwoza",
+                "eligible": true
+            },
+            {
+                "name": "Hawul",
+                "eligible": true
+            },
+            {
+                "name": "Jere",
+                "eligible": true
+            },
+            {
+                "name": "Kaga",
+                "eligible": true
+            },
+            {
+                "name": "Kala/Balge",
+                "eligible": true
+            },
+            {
+                "name": "Konduga",
+                "eligible": true
+            },
+            {
+                "name": "Kukawa",
+                "eligible": true
+            },
+            {
+                "name": "Kwaya Kusar",
+                "eligible": true
+            },
+            {
+                "name": "Mafa",
+                "eligible": true
+            },
+            {
+                "name": "Magumeri",
+                "eligible": true
+            },
+            {
+                "name": "Maiduguri",
+                "eligible": true
+            },
+            {
+                "name": "Marte",
+                "eligible": true
+            },
+            {
+                "name": "Mobbar",
+                "eligible": true
+            },
+            {
+                "name": "Monguno",
+                "eligible": true
+            },
+            {
+                "name": "Ngala",
+                "eligible": true
+            },
+            {
+                "name": "Nganzai",
+                "eligible": true
+            },
+            {
+                "name": "Shani",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905de6cf4",
+        "name": "Gombe",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Akko",
+                "eligible": true
+            },
+            {
+                "name": "Balanga",
+                "eligible": true
+            },
+            {
+                "name": "Billiri",
+                "eligible": true
+            },
+            {
+                "name": "Dukku",
+                "eligible": true
+            },
+            {
+                "name": "Kaltungo",
+                "eligible": true
+            },
+            {
+                "name": "Kwami",
+                "eligible": true
+            },
+            {
+                "name": "Shomgom",
+                "eligible": true
+            },
+            {
+                "name": "Funakaye",
+                "eligible": true
+            },
+            {
+                "name": "Gombe",
+                "eligible": true
+            },
+            {
+                "name": "Nafada/Bajoga",
+                "eligible": true
+            },
+            {
+                "name": "Yamaltu/Delta",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905de6cf5",
+        "name": "Jigawa",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Auyo",
+                "eligible": true
+            },
+            {
+                "name": "Babura",
+                "eligible": true
+            },
+            {
+                "name": "Birni Kudu",
+                "eligible": true
+            },
+            {
+                "name": "Biriniwa",
+                "eligible": true
+            },
+            {
+                "name": "Buji",
+                "eligible": true
+            },
+            {
+                "name": "Dutse",
+                "eligible": true
+            },
+            {
+                "name": "Gagarawa",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905de6cf6",
+        "name": "Katsina",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Batagarawa",
+                "eligible": true
+            },
+            {
+                "name": "Batsari",
+                "eligible": true
+            },
+            {
+                "name": "Baure",
+                "eligible": true
+            },
+            {
+                "name": "Bindawa",
+                "eligible": true
+            },
+            {
+                "name": "Charanchi",
+                "eligible": true
+            },
+            {
+                "name": "Dandume",
+                "eligible": true
+            },
+            {
+                "name": "Danja",
+                "eligible": true
+            },
+            {
+                "name": "Dan Musa",
+                "eligible": true
+            },
+            {
+                "name": "Daura",
+                "eligible": true
+            },
+            {
+                "name": "Dutsi",
+                "eligible": true
+            },
+            {
+                "name": "Dutsin-Ma",
+                "eligible": true
+            },
+            {
+                "name": "Faskari",
+                "eligible": true
+            },
+            {
+                "name": "Funtua",
+                "eligible": true
+            },
+            {
+                "name": "Ingawa",
+                "eligible": true
+            },
+            {
+                "name": "Jibia",
+                "eligible": true
+            },
+            {
+                "name": "Kafur",
+                "eligible": true
+            },
+            {
+                "name": "Kaita",
+                "eligible": true
+            },
+            {
+                "name": "Kankara",
+                "eligible": true
+            },
+            {
+                "name": "Kankia",
+                "eligible": true
+            },
+            {
+                "name": "Katsina",
+                "eligible": true
+            },
+            {
+                "name": "Kurfi",
+                "eligible": true
+            },
+            {
+                "name": "Kusada",
+                "eligible": true
+            },
+            {
+                "name": "Mai Adua",
+                "eligible": true
+            },
+            {
+                "name": "Malumfashi",
+                "eligible": true
+            },
+            {
+                "name": "Mani",
+                "eligible": true
+            },
+            {
+                "name": "Mashi",
+                "eligible": true
+            },
+            {
+                "name": "Matazuu",
+                "eligible": true
+            },
+            {
+                "name": "Musawa",
+                "eligible": true
+            },
+            {
+                "name": "Rimi",
+                "eligible": true
+            },
+            {
+                "name": "Sabuwa",
+                "eligible": true
+            },
+            {
+                "name": "Safana",
+                "eligible": true
+            },
+            {
+                "name": "Sandamu",
+                "eligible": true
+            },
+            {
+                "name": "Zango",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905de6cf7",
+        "name": "Kebbi",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Aleiro",
+                "eligible": true
+            },
+            {
+                "name": "Arewa-Dandi",
+                "eligible": true
+            },
+            {
+                "name": "Argungu",
+                "eligible": true
+            },
+            {
+                "name": "Augie",
+                "eligible": true
+            },
+            {
+                "name": "Bagudo",
+                "eligible": true
+            },
+            {
+                "name": "Birnin Kebbi",
+                "eligible": true
+            },
+            {
+                "name": "Bunza",
+                "eligible": true
+            },
+            {
+                "name": "Dandi",
+                "eligible": true
+            },
+            {
+                "name": "Fakai",
+                "eligible": true
+            },
+            {
+                "name": "Gwandu",
+                "eligible": true
+            },
+            {
+                "name": "Jega",
+                "eligible": true
+            },
+            {
+                "name": "Kalgo",
+                "eligible": true
+            },
+            {
+                "name": "Koko/Besse",
+                "eligible": true
+            },
+            {
+                "name": "Maiyama",
+                "eligible": true
+            },
+            {
+                "name": "Ngaski",
+                "eligible": true
+            },
+            {
+                "name": "Sakaba",
+                "eligible": true
+            },
+            {
+                "name": "Shanga",
+                "eligible": true
+            },
+            {
+                "name": "Suru",
+                "eligible": true
+            },
+            {
+                "name": "Wasagu/Danko",
+                "eligible": true
+            },
+            {
+                "name": "Yauri",
+                "eligible": true
+            },
+            {
+                "name": "Zuru",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905de6cf8",
+        "name": "Plateau",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Barikin Ladi",
+                "eligible": true
+            },
+            {
+                "name": "Bassa",
+                "eligible": true
+            },
+            {
+                "name": "Bokkos",
+                "eligible": true
+            },
+            {
+                "name": "Jos East",
+                "eligible": true
+            },
+            {
+                "name": "Jos North",
+                "eligible": true
+            },
+            {
+                "name": "Jos South",
+                "eligible": true
+            },
+            {
+                "name": "Kanam",
+                "eligible": true
+            },
+            {
+                "name": "Kanke",
+                "eligible": true
+            },
+            {
+                "name": "Langtang North",
+                "eligible": true
+            },
+            {
+                "name": "Langtang South",
+                "eligible": true
+            },
+            {
+                "name": "Mangu",
+                "eligible": true
+            },
+            {
+                "name": "Mikang",
+                "eligible": true
+            },
+            {
+                "name": "Pankshin",
+                "eligible": true
+            },
+            {
+                "name": "Qua an Pan",
+                "eligible": true
+            },
+            {
+                "name": "Riyom",
+                "eligible": true
+            },
+            {
+                "name": "Shendam",
+                "eligible": true
+            },
+            {
+                "name": "Wase",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905e16cf9",
+        "name": "Sokoto",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Binji",
+                "eligible": true
+            },
+            {
+                "name": "Bodinga",
+                "eligible": true
+            },
+            {
+                "name": "Dange-shnsi",
+                "eligible": true
+            },
+            {
+                "name": "Gada",
+                "eligible": true
+            },
+            {
+                "name": "Goronyo",
+                "eligible": true
+            },
+            {
+                "name": "Gudu",
+                "eligible": true
+            },
+            {
+                "name": "Gawabawa",
+                "eligible": true
+            },
+            {
+                "name": "Illela",
+                "eligible": true
+            },
+            {
+                "name": "Isa",
+                "eligible": true
+            },
+            {
+                "name": "Kware",
+                "eligible": true
+            },
+            {
+                "name": "kebbe",
+                "eligible": true
+            },
+            {
+                "name": "Rabah",
+                "eligible": true
+            },
+            {
+                "name": "Sabon birni",
+                "eligible": true
+            },
+            {
+                "name": "Shagari",
+                "eligible": true
+            },
+            {
+                "name": "Silame",
+                "eligible": true
+            },
+            {
+                "name": "Sokoto North",
+                "eligible": true
+            },
+            {
+                "name": "Sokoto South",
+                "eligible": true
+            },
+            {
+                "name": "Tambuwal",
+                "eligible": true
+            },
+            {
+                "name": "Tqngaza",
+                "eligible": true
+            },
+            {
+                "name": "Tureta",
+                "eligible": true
+            },
+            {
+                "name": "Wamako",
+                "eligible": true
+            },
+            {
+                "name": "Wurno",
+                "eligible": true
+            },
+            {
+                "name": "Yabo",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905e16cfa",
+        "name": "Yobe",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Bade",
+                "eligible": true
+            },
+            {
+                "name": "Bursari",
+                "eligible": true
+            },
+            {
+                "name": "Damaturu",
+                "eligible": true
+            },
+            {
+                "name": "Fika",
+                "eligible": true
+            },
+            {
+                "name": "Fune",
+                "eligible": true
+            },
+            {
+                "name": "Geidam",
+                "eligible": true
+            },
+            {
+                "name": "Gujba",
+                "eligible": true
+            },
+            {
+                "name": "Gulani",
+                "eligible": true
+            },
+            {
+                "name": "Jakusko",
+                "eligible": true
+            },
+            {
+                "name": "Karasuwa",
+                "eligible": true
+            },
+            {
+                "name": "Karawa",
+                "eligible": true
+            },
+            {
+                "name": "Machina",
+                "eligible": true
+            },
+            {
+                "name": "Nangere",
+                "eligible": true
+            },
+            {
+                "name": "Nguru Potiskum",
+                "eligible": true
+            },
+            {
+                "name": "Tarmua",
+                "eligible": true
+            },
+            {
+                "name": "Yunusari",
+                "eligible": true
+            },
+            {
+                "name": "Yusufari",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20a905e16cfb",
+        "name": "Zamfara",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Anka",
+                "eligible": true
+            },
+            {
+                "name": "Bakura",
+                "eligible": true
+            },
+            {
+                "name": "Birnin Magaji",
+                "eligible": true
+            },
+            {
+                "name": "Bukkuyum",
+                "eligible": true
+            },
+            {
+                "name": "Bungudu",
+                "eligible": true
+            },
+            {
+                "name": "Gummi",
+                "eligible": true
+            },
+            {
+                "name": "Gusau",
+                "eligible": true
+            },
+            {
+                "name": "Kaura",
+                "eligible": true
+            },
+            {
+                "name": "Namoda",
+                "eligible": true
+            },
+            {
+                "name": "Maradun",
+                "eligible": true
+            },
+            {
+                "name": "Maru",
+                "eligible": true
+            },
+            {
+                "name": "Shinkafi",
+                "eligible": true
+            },
+            {
+                "name": "Talata Mafara",
+                "eligible": true
+            },
+            {
+                "name": "Tsafe",
+                "eligible": true
+            },
+            {
+                "name": "Zurmi",
+                "eligible": true
+            }
+        ]
+    },
+    {
+        "code": "8a9f8ffa7f1e7c71017f20d3c1fd086f",
+        "name": "Adamawa",
+        "eligible": true,
+        "lga": [
+            {
+                "name": "Demsa",
+                "eligible": true
+            },
+            {
+                "name": "Fufore",
+                "eligible": true
+            },
+            {
+                "name": "Ganaye",
+                "eligible": true
+            },
+            {
+                "name": "Gireri",
+                "eligible": true
+            },
+            {
+                "name": "Gombi",
+                "eligible": true
+            },
+            {
+                "name": "Guyuk",
+                "eligible": true
+            },
+            {
+                "name": "Hong",
+                "eligible": true
+            },
+            {
+                "name": "Jada",
+                "eligible": true
+            },
+            {
+                "name": "Lamurde",
+                "eligible": true
+            },
+            {
+                "name": "Madagali",
+                "eligible": true
+            },
+            {
+                "name": "Maiha",
+                "eligible": true
+            },
+            {
+                "name": "Mayo-Belwa",
+                "eligible": true
+            },
+            {
+                "name": "Michika",
+                "eligible": true
+            },
+            {
+                "name": "Mubi North",
+                "eligible": true
+            },
+            {
+                "name": "Mubi South",
+                "eligible": true
+            },
+            {
+                "name": "Numan",
+                "eligible": true
+            },
+            {
+                "name": "Shelleng",
+                "eligible": true
+            },
+            {
+                "name": "Song",
+                "eligible": true
+            }
+        ]
+    }
+]
